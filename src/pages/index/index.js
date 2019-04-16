@@ -1,3 +1,4 @@
+import cheader from '@/components/header/index.vue'
 export default{
 	name: 'index',
 	props: {
@@ -18,6 +19,6 @@ export default{
 		
 	},
 	components: {
-		
+		cheader
 	}
 }

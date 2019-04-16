@@ -1,5 +1,5 @@
 <template>
-  <div>hello</div>
+  <cheader></cheader>
 </template>
 
 <style lang='stylus' scoped>
